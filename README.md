@@ -5,7 +5,7 @@ Tensorflow has four common methods for reading data:
 * QueueRunner
 * Datasets API
 
-For more detail, see this [blog]()
+For more detail, see this [blog](https://zhuanlan.zhihu.com/p/53917588)
 
 How to use the repository？
 ===
